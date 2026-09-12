@@ -1,0 +1,4 @@
+
+# Second Life
+
+Second Life is a browser prototype that helps people find a useful next life for items they might otherwise throw away.
